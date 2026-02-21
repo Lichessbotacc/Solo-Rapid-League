@@ -1,11 +1,30 @@
 import json
 
 # Aktuelle Rangliste als Dict: username -> {'points': int, 'booster': float or None}
-c
+current_ranking = {
+
+}
 
 
 new_table_json = """
-
+{"rank":1,"score":62,"rating":2375,"username":"stambul65","performance":2503}
+{"rank":2,"score":38,"rating":2162,"username":"mang0sunr1s3","flair":"symbols.orange-heart","patronColor":6,"performance":2174}
+{"rank":3,"score":23,"rating":2009,"username":"kubak5","performance":2166}
+{"rank":4,"score":21,"rating":2052,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":1903}
+{"rank":5,"score":20,"rating":2110,"username":"nopainogain","flair":"activity.chess-pawn","performance":2083}
+{"rank":6,"score":19,"rating":2283,"username":"Satranc599","flair":"activity.1st-place-medal","patronColor":1,"performance":2453}
+{"rank":7,"score":19,"rating":2094,"username":"TheRuleBreaker122","flair":"smileys.alien-monster","performance":2087}
+{"rank":8,"score":17,"rating":2198,"username":"tadeasek532","performance":2115}
+{"rank":9,"score":15,"rating":1827,"username":"Conrad_Gagnon","performance":1765}
+{"rank":10,"score":13,"rating":2112,"username":"yongzhengwang","flair":"smileys.ghost","performance":1968}
+{"rank":11,"score":9,"rating":2030,"username":"ComeToBaba1","flair":"objects.crown","performance":2171}
+{"rank":12,"score":9,"rating":1528,"username":"Ozgur3838","performance":1820}
+{"rank":13,"score":5,"rating":1647,"username":"MysteryPhantom7","flair":"nature.shooting-star","performance":1779}
+{"rank":14,"score":4,"rating":1882,"username":"Atharv_2008","performance":1764}
+{"rank":15,"score":4,"rating":1669,"username":"matewasfate","performance":1510}
+{"rank":16,"score":2,"rating":1673,"username":"Justinsenpai","performance":1786}
+{"rank":17,"score":2,"rating":1384,"username":"german11","patronColor":10,"performance":1722}
+{"rank":18,"score":2,"rating":1496,"username":"schwarzerrabe","performance":1418}
 """
 
 # =========================

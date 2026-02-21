@@ -2,7 +2,24 @@ import json
 
 # Aktuelle Rangliste als Dict: username -> {'points': int, 'booster': float or None}
 current_ranking = {
-
+    "stambul65": {"points": 62, "booster": 2.0},
+    "mang0sunr1s3": {"points": 38, "booster": 1.9},
+    "kubak5": {"points": 23, "booster": 1.8},
+    "DarkOnCrack": {"points": 21, "booster": 1.7},
+    "nopainogain": {"points": 20, "booster": 1.6},
+    "Satranc599": {"points": 19, "booster": 1.5},
+    "TheRuleBreaker122": {"points": 19, "booster": 1.4},
+    "tadeasek532": {"points": 17, "booster": 1.3},
+    "Conrad_Gagnon": {"points": 15, "booster": 1.2},
+    "yongzhengwang": {"points": 13, "booster": 1.1},
+    "ComeToBaba1": {"points": 9, "booster": None},
+    "Ozgur3838": {"points": 9, "booster": None},
+    "MysteryPhantom7": {"points": 5, "booster": None},
+    "Atharv_2008": {"points": 4, "booster": None},
+    "matewasfate": {"points": 4, "booster": None},
+    "Justinsenpai": {"points": 2, "booster": None},
+    "german11": {"points": 2, "booster": None},
+    "schwarzerrabe": {"points": 2, "booster": None},
 }
 
 

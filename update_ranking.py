@@ -27,17 +27,17 @@ current_ranking = {
 
 
 new_table_json = """
-{"rank":1,"score":72,"rating":2382,"username":"stambul65","performance":2389}
-{"rank":2,"score":20,"rating":2041,"username":"ComeToBaba1","flair":"objects.crown","performance":2087}
-{"rank":3,"score":19,"rating":2088,"username":"nopainogain","flair":"activity.chess-pawn","performance":2009}
-{"rank":4,"score":15,"rating":2069,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":2110}
-{"rank":5,"score":13,"rating":1814,"username":"Conrad_Gagnon","performance":1760}
-{"rank":6,"score":8,"rating":2093,"username":"shailesh777","performance":2090}
-{"rank":7,"score":7,"rating":1649,"username":"matewasfate","performance":1733}
-{"rank":8,"score":4,"rating":2104,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":2383}
-{"rank":9,"score":2,"rating":2168,"username":"mang0sunr1s3","flair":"symbols.orange-heart","patronColor":6,"performance":2610}
-{"rank":10,"score":2,"rating":2173,"username":"kenedyKimutai","flair":"activity.chess-pawn","performance":1797}
-{"rank":11,"score":2,"rating":1403,"username":"german11","patronColor":10,"performance":1565}
+{"rank":1,"score":50,"rating":2383,"username":"stambul65","performance":2188}
+{"rank":2,"score":23,"rating":2045,"username":"nopainogain","flair":"activity.chess-pawn","performance":1845}
+{"rank":3,"score":15,"rating":1751,"username":"thedecentchescuber","performance":2200}
+{"rank":4,"score":14,"rating":1793,"username":"Conrad_Gagnon","performance":1782}
+{"rank":5,"score":11,"rating":2112,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":2350}
+{"rank":6,"score":10,"rating":1596,"username":"TvojaLaska","flair":"activity.heart-suit","performance":1646}
+{"rank":7,"score":8,"rating":1484,"username":"schwarzerrabe","performance":1663}
+{"rank":8,"score":3,"rating":2057,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":1971}
+{"rank":9,"score":3,"rating":2008,"username":"kubak5","performance":1786}
+{"rank":10,"score":2,"rating":2024,"username":"mrsst","flair":"smileys.angry-face-with-horns","performance":2176}
+{"rank":11,"score":2,"rating":1399,"username":"german11","patronColor":10,"performance":1374}
 """
 
 # =========================

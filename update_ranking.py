@@ -35,20 +35,17 @@ current_ranking = {
 
 
 new_table_json = """
-{"rank":1,"score":45,"rating":2342,"username":"stambul65","performance":2177}
-{"rank":2,"score":33,"rating":2105,"username":"ComeToBaba1","flair":"objects.crown","performance":2206}
-{"rank":3,"score":6,"rating":1787,"username":"Conrad_Gagnon","performance":1830}
-{"rank":4,"score":4,"rating":2004,"username":"Gloria1959","flair":"travel-places.desert-island","performance":2169}
-{"rank":5,"score":4,"rating":2023,"username":"Sotapana_ass","performance":1989}
-{"rank":6,"score":3,"rating":2061,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":2288}
-{"rank":7,"score":3,"rating":2286,"username":"Capi48","performance":1805}
-{"rank":8,"score":3,"rating":2034,"username":"nopainogain","flair":"activity.chess-pawn","performance":1725}
-{"rank":9,"score":3,"rating":2000,"username":"kubak5","performance":1602}
-{"rank":10,"score":2,"rating":1786,"username":"thedecentchescuber","performance":2486}
-{"rank":11,"score":2,"rating":2115,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":2212}
-{"rank":12,"score":2,"rating":1983,"username":"SparkToBlack","flair":"activity.sparkler","performance":2039}
-{"rank":13,"score":2,"rating":1976,"username":"sheun","flair":"activity.trophy","performance":1693}
-{"rank":14,"score":2,"rating":1614,"username":"TvojaLaska","flair":"activity.heart-suit","performance":1668}
+{"rank":1,"score":58,"rating":2391,"username":"stambul65","performance":2368}
+{"rank":2,"score":21,"rating":1848,"username":"Conrad_Gagnon","performance":2096}
+{"rank":3,"score":15,"rating":1987,"username":"kubak5","performance":1950}
+{"rank":4,"score":8,"rating":2053,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":2036}
+{"rank":5,"score":7,"rating":1793,"username":"ZoTsihoarana","flair":"symbols.peace-symbol","performance":1847}
+{"rank":6,"score":6,"rating":1713,"username":"Justinsenpai","performance":1698}
+{"rank":7,"score":5,"rating":2036,"username":"nopainogain","flair":"activity.chess-pawn","performance":1929}
+{"rank":8,"score":3,"rating":2127,"username":"emiliocba","flair":"nature.pig-face","performance":1832}
+{"rank":9,"score":2,"rating":2103,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":2043}
+{"rank":10,"score":2,"rating":1630,"username":"matewasfate","performance":1805}
+{"rank":11,"score":2,"rating":1455,"username":"Ozgur3838","performance":1644}
 """
 
 # =========================

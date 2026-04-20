@@ -46,22 +46,15 @@ current_ranking = {
 
 
 new_table_json = """
-{"rank":1,"score":54,"rating":2428,"username":"stambul65","performance":2109}
-{"rank":2,"score":30,"rating":2029,"username":"xdxdboxjaja","performance":2129}
-{"rank":3,"score":18,"rating":2085,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":1824}
-{"rank":4,"score":17,"rating":1845,"username":"Conrad_Gagnon","performance":1849}
-{"rank":5,"score":16,"rating":1654,"username":"DarkOnWeakBot","title":"BOT","performance":1694}
-{"rank":6,"score":10,"rating":1806,"username":"Ustym_K","performance":1920}
-{"rank":7,"score":10,"rating":1472,"username":"schwarzerrabe","performance":1608}
-{"rank":8,"score":6,"rating":1954,"username":"kubak5","performance":2203}
-{"rank":9,"score":5,"rating":2104,"username":"nopainogain","flair":"people.ninja","performance":1944}
-{"rank":10,"score":4,"rating":1388,"username":"leonard_Da_podi","performance":1663}
-{"rank":11,"score":4,"rating":1526,"username":"healLan","patronColor":7,"performance":1611}
-{"rank":12,"score":3,"rating":2259,"username":"The_Pircs_Player","flair":"nature.fire","performance":2297}
-{"rank":13,"score":3,"rating":2120,"username":"mike-bear","flair":"objects.teddy-bear","performance":1971}
-{"rank":14,"score":3,"rating":2159,"username":"ComeToBaba1","flair":"objects.crown","performance":1874}
-{"rank":15,"score":3,"rating":1519,"username":"Inoxtagpro","performance":1282}
-{"rank":16,"score":2,"rating":1661,"username":"TvojaLaska","flair":"activity.heart-suit","performance":1602}
+{"rank":1,"score":42,"rating":2426,"username":"stambul65","performance":2090}
+{"rank":2,"score":12,"rating":1833,"username":"Conrad_Gagnon","performance":1858}
+{"rank":3,"score":9,"rating":1591,"username":"okoh11122233","flair":"smileys.winking-face-with-tongue","performance":1973}
+{"rank":4,"score":5,"rating":1647,"username":"DarkOnWeakBot","title":"BOT","performance":1807}
+{"rank":5,"score":0,"rating":2123,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5}
+{"rank":6,"score":0,"rating":1601,"username":"jash_the_goat","flair":"smileys.alien"}
+{"rank":7,"score":0,"rating":1600,"username":"abdulJahangirov"}
+{"rank":8,"score":0,"rating":1446,"username":"schwarzerrabe","performance":1337}
+{"rank":9,"score":0,"rating":1312,"username":"Shaurya1718"}
 """
 
 # =========================

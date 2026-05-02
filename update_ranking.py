@@ -49,16 +49,23 @@ current_ranking = {
 }
 
 new_table_json = """
-{"rank":1,"score":44,"rating":2413,"username":"stambul65","performance":2299}
-{"rank":2,"score":11,"rating":1816,"username":"Conrad_Gagnon","performance":1996}
-{"rank":3,"score":6,"rating":1622,"username":"okoh11122233","flair":"smileys.winking-face-with-tongue","performance":1895}
-{"rank":4,"score":5,"rating":2157,"username":"longsonicc","performance":1957}
-{"rank":5,"score":4,"rating":2092,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":2233}
-{"rank":6,"score":4,"rating":1901,"username":"DAW8718","performance":1735}
-{"rank":7,"score":4,"rating":1448,"username":"schwarzerrabe","performance":1592}
-{"rank":8,"score":2,"rating":1375,"username":"sxantiago_chess","performance":1952}
-{"rank":9,"score":2,"rating":1650,"username":"DarkOnWeakBot","title":"BOT","performance":1464}
-{"rank":10,"score":0,"rating":2116,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":6}
+{"rank":1,"score":41,"rating":2398,"username":"stambul65","performance":2233}
+{"rank":2,"score":27,"rating":2266,"username":"Capi48","performance":2164}
+{"rank":3,"score":27,"rating":2204,"username":"Evgeny86","performance":1994}
+{"rank":4,"score":22,"rating":2286,"username":"xdxdboxjaja","performance":2414}
+{"rank":5,"score":16,"rating":1819,"username":"Conrad_Gagnon","performance":1928}
+{"rank":6,"score":16,"rating":1888,"username":"DAW8718","performance":1907}
+{"rank":7,"score":15,"rating":1639,"username":"DarkOnWeakBot","title":"BOT","performance":1691}
+{"rank":8,"score":12,"rating":1548,"username":"Ozgur3838","performance":1767}
+{"rank":9,"score":9,"rating":2101,"username":"ComeToBaba1","flair":"objects.crown","performance":1919}
+{"rank":10,"score":6,"rating":1617,"username":"okoh11122233","flair":"smileys.winking-face-with-tongue","performance":1769}
+{"rank":11,"score":5,"rating":1426,"username":"timothyemmanuel","performance":1602}
+{"rank":12,"score":4,"rating":1909,"username":"Dede321","flair":"objects.chart-increasing","performance":1973}
+{"rank":13,"score":4,"rating":2101,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":6,"performance":1837}
+{"rank":14,"score":3,"rating":1961,"username":"kubak5","performance":1956}
+{"rank":15,"score":3,"rating":1750,"username":"GeekingKing","performance":1914}
+{"rank":16,"score":2,"rating":2071,"username":"Konariq7","flair":"nature.glowing-star","patronColor":6,"performance":1555}
+{"rank":17,"score":1,"rating":1340,"username":"german11","patronColor":10,"performance":1409}
 """
 
 # =========================
